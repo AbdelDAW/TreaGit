@@ -3,7 +3,7 @@ package examen1;
 
 /**
  *
- * @author Abdel   "11173535@alu.murciaeduca.es" #cambios
+ * @author Abdel   "11173535@alu.murciaeduca.es"
  */
 public class Empleado {
     private final String nombre;
